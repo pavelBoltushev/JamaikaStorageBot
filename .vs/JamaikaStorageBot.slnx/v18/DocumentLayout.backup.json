@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TelegramBotProjects\\JamaikaStorageBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\messageunit\\request\\studioshipmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:messageunit\\request\\studioshipmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\storage\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:storage\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\storage\\studioshipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:storage\\studioshipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\messageunit\\request\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:messageunit\\request\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\saveloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:saveloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|d:\\telegrambotprojects\\jamaikastoragebot\\bot\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F9B425-A3A3-B511-50F2-D935630EC8D3}|JamaikaStorageBot.csproj|solutionrelative:bot\\terminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Terminal.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Bot\\Terminal.cs",
+              "RelativeDocumentMoniker": "Bot\\Terminal.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Bot\\Terminal.cs",
+              "RelativeToolTip": "Bot\\Terminal.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:02:30.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Request.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\MessageUnit\\Request\\Request.cs",
+              "RelativeDocumentMoniker": "MessageUnit\\Request\\Request.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\MessageUnit\\Request\\Request.cs",
+              "RelativeToolTip": "MessageUnit\\Request\\Request.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T11:00:28.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudioShipmentRequest.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\MessageUnit\\Request\\StudioShipmentRequest.cs",
+              "RelativeDocumentMoniker": "MessageUnit\\Request\\StudioShipmentRequest.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\MessageUnit\\Request\\StudioShipmentRequest.cs",
+              "RelativeToolTip": "MessageUnit\\Request\\StudioShipmentRequest.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAYwDIBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:58:08.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveLoader.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\SaveLoader.cs",
+              "RelativeDocumentMoniker": "SaveLoader.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\SaveLoader.cs",
+              "RelativeToolTip": "SaveLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:49:46.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studio.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Storage\\Studio.cs",
+              "RelativeDocumentMoniker": "Storage\\Studio.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Storage\\Studio.cs",
+              "RelativeToolTip": "Storage\\Studio.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:47:09.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Storage\\Storage.cs",
+              "RelativeDocumentMoniker": "Storage\\Storage.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Storage\\Storage.cs",
+              "RelativeToolTip": "Storage\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:44:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudioShipment.cs",
+              "DocumentMoniker": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Storage\\StudioShipment.cs",
+              "RelativeDocumentMoniker": "Storage\\StudioShipment.cs",
+              "ToolTip": "D:\\TelegramBotProjects\\JamaikaStorageBot\\Storage\\StudioShipment.cs",
+              "RelativeToolTip": "Storage\\StudioShipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:45:20.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
